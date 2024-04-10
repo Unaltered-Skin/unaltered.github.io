@@ -1,4 +1,6 @@
-# Leaflet/Sticker Campaign
+---
+title: Leaflet/Sticker Campaign
+---
 # Leaflets
 Link to download leaflets:
 # Stickers
