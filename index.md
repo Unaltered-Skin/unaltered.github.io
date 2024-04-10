@@ -2,9 +2,9 @@
 title: Leaflet/Sticker Campaign
 ---
 # Leaflets
-Link to download leaflets:
+Link to download leaflets: \[WORK IN PROGRESS\]
 # Stickers
-Link to download stickers:
+Link to download stickers: \[WORK IN PROGRESS\]
 # Overview
 Over **1.4 million babies are circumcised annually**. Hospitals violate parental autonomy by pressuring parents to immediately circumcise their baby without being fully informed of the consequences, even though circumcisions can be delayed to any age (even at 90-years-old).
 # Cost-Effectiveness
