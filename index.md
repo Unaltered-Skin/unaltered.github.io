@@ -6,7 +6,7 @@ Link to download leaflets:
 # Stickers
 Link to download stickers:
 # Overview
-Hospitals violate parental autonomy by pressuring parents to immediately circumcise their baby without being fully informed of the consequences, even though circumcisions can be delayed to any age (even at 90-years-old).
+Over **1.4 million babies are circumcised annually**. Hospitals violate parental autonomy by pressuring parents to immediately circumcise their baby without being fully informed of the consequences, even though circumcisions can be delayed to any age (even at 90-years-old).
 # Cost-Effectiveness
 About **$20** on average to save a baby from circumcision.<sup>1</sup>
 Studies show that providing informational leaflets can lead to behavioral changes. We used the most conservative estimates to calculate the $20 per baby saved, but we suspect the actual cost-effectiveness to be even higher in practice.
