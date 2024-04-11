@@ -17,3 +17,15 @@ We will also do another fundraiser to fund an MTurk study to validate and measur
 
 ## Footnotes
 <sup>1</sup>Studies have found that anywhere from 1% to 40% of individuals who receive a booklet will change their behavior. Using the conservative 1% figure, at 7 cents per booklet, and with 70% of people becoming parents, it costs about $20 on average to save a baby from circumcision.
+
+## Copyright
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://unaltered-skin.github.io/unaltered.github.io/">Unaltered</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Unaltered-Skin">ludory</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
+
+
+## Donations
+
+> [!NOTE]
+>
+> Thank you for considering a donation to Unaltered. We are not a 501(c)3, so you will not get any tax deduction.
+>
+>  [KO-FI Unaltered](https://ko-fi.com/unaltered).
