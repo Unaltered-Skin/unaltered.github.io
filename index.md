@@ -24,7 +24,17 @@ We will also do another fundraiser to fund an MTurk study to validate and measur
 ## Copyright
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://unaltered-skin.github.io/unaltered.github.io/">Unaltered</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Unaltered-Skin">ludory</a> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
 
+## Current GoFundMe Campaign
+> we have a GoFundMe Campaign going on we are in an alliance with NEXT LEVEL INTACTIVISM
+> [Empower NLI & Unaltered to Lower Circumcision Rates](https://www.gofundme.com/f/empower-nli-unaltered-to-lower-circumcision-rates)
 
+# Past GofundMe Campaigns all fully funded and every single promise kept
+> [HELP FUND NLI's Tele-Intactivism Voice Messages
+](https://www.gofundme.com/f/help-fund-nlis-teleintactivism-voice-messages)
+[Fund DialMyCall Nevada Media Educational Outreach
+](https://www.gofundme.com/f/fund-dialmycall-nevada-media-educational-outreach)
+[HELP FUND NLIs Website and Email Marketing System
+](https://www.gofundme.com/f/help-fund-nlis-website-and-email-marketing-system)
 ## Donations
 
 > [!NOTE]
