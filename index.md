@@ -31,9 +31,9 @@ We will also do another fundraiser to fund an MTurk study to validate and measur
 # Past GofundMe Campaigns all fully funded and every single promise kept
 > [HELP FUND NLI's Tele-Intactivism Voice Messages
 ](https://www.gofundme.com/f/help-fund-nlis-teleintactivism-voice-messages)
-[Fund DialMyCall Nevada Media Educational Outreach
+> [Fund DialMyCall Nevada Media Educational Outreach
 ](https://www.gofundme.com/f/fund-dialmycall-nevada-media-educational-outreach)
-[HELP FUND NLIs Website and Email Marketing System
+> [HELP FUND NLIs Website and Email Marketing System
 ](https://www.gofundme.com/f/help-fund-nlis-website-and-email-marketing-system)
 ## Donations
 
