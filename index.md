@@ -18,6 +18,8 @@ We will also do another fundraiser to fund an MTurk study to validate and measur
 # Unaltered Interviews
 [Leader of Unaltered interview Part 1 With Prevail over the system](https://www.youtube.com/watch?v=-6QDtPiprgY)
 
+[Unaltered answers the hard questions Part 2](https://www.youtube.com/watch?v=YsJpyaboUMk)
+
 ## Footnotes
 <sup>1</sup>Studies have found that anywhere from 1% to 40% of individuals who receive a booklet will change their behavior. Using the conservative 1% figure, at 7 cents per booklet, and with 70% of people becoming parents, it costs about $20 on average to save a baby from circumcision.
 
