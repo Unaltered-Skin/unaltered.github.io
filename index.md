@@ -42,8 +42,8 @@ We will also do another fundraiser to fund an MTurk study to validate and measur
 ](https://www.gofundme.com/f/help-fund-nlis-website-and-email-marketing-system)
 ## Donations
 
-> [!NOTE]
->
 > Thank you for considering a donation to Unaltered. We are not a 501(c)3, so you will not get any tax deduction.
 >
->  [KO-FI Unaltered](https://ko-fi.com/unaltered).
+>  [KO-FI Unaltered Pay per month](https://ko-fi.com/unaltered).
+>
+> [Patreon Unaltered Pay per project](https://www.patreon.com/UnalteredSkin)
