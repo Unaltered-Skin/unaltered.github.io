@@ -2,7 +2,7 @@
 title: Leaflet/Sticker Campaign
 ---
 # Leaflets
-Link to download leaflets: \[WORK IN PROGRESS\]
+Link to download leaflets: 
 # Stickers
 Link to download stickers: \[WORK IN PROGRESS\]
 # Overview
