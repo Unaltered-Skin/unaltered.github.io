@@ -2,7 +2,8 @@
 title: Leaflet/Sticker Campaign
 ---
 # Leaflets
-Link to download leaflets: <a href="https://github.com/Unaltered-Skin/unaltered.github.io/blob/main/Pamphlet%20ex.pdf"></a>
+Link to download leaflets: https://unaltered.github.io/unaltered.github.io/Pamphlet ex.pdf
+
 # Stickers
 Link to download stickers: \[WORK IN PROGRESS\]
 # Overview
