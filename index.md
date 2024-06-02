@@ -2,7 +2,7 @@
 title: Leaflet/Sticker Campaign
 ---
 # Leaflets
-Link to download leaflets: 
+Link to download leaflets: <a href="/pdfs/Pamphlet ex.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 # Stickers
 Link to download stickers: \[WORK IN PROGRESS\]
 # Overview
