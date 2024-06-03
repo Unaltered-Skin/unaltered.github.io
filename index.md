@@ -2,7 +2,7 @@
 title: Leaflet/Sticker Campaign
 ---
 # Leaflets
-Link to download leaflets: [latest leaflet pdf](https://file.io/cOeq5aXIcr9u)
+Link to download leaflets: [latest leaflet pdf](https://github.com/Unaltered-Skin/unaltered.github.io/blob/main/Pamphlet%20ex.pdf)
 
 
 # Stickers
